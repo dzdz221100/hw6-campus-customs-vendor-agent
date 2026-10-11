@@ -1,0 +1,10 @@
+# Secrets -- never commit the real .env (see .env.example for the template)
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

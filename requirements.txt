@@ -1,0 +1,8 @@
+pydantic-ai
+pydantic
+httpx
+python-dotenv
+pypdf
+pymupdf
+beautifulsoup4
+tiktoken
